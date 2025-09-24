@@ -102,4 +102,4 @@ You clicked *Roast Me*, remember?
 
 ## ⭐ Star this repo if you're still emotionally intact.
 
-Made with 💣 by [YOUR NAME](https://github.com/YOUR_USERNAME)
+Made with 💣 by [The BatshitBananaDotNet](https://github.com/Lostky01)
